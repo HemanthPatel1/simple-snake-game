@@ -1,1 +1,2 @@
 Hello from Aws AI Foundry
+Hello from Claude Agent SDK via Azure AI Foundry.
